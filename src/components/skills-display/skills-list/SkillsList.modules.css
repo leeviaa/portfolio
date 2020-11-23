@@ -1,0 +1,19 @@
+.skills-list-container {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: center;
+}
+
+
+.skill-container {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  padding: 20px;
+
+}
+
+.icon {
+  font-size: 50px;
+}

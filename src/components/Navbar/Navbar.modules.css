@@ -1,0 +1,24 @@
+.container {
+  /* padding: 10px; */
+  border-bottom: 1px dotted #dddbe0;
+  /* position: fixed; */
+}
+
+.links-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  list-style: none;
+  /* padding: 20px; */
+
+}
+
+ .nav-link {
+  color: #6d6875;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: #EC9D37;
+}
